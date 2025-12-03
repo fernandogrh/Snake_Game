@@ -4,12 +4,12 @@
 ![Game Dev](https://img.shields.io/badge/Game_Logic-Collision_&_Loop_Design-orange)
 
 # 🐍 **FR Python Snake Game**
-
 ### A sleek, modular, object-oriented Python Snake game engineered to showcase strong development fundamentals, scalable architecture, and real-time game logic.
 
-
 > Python Snake game built with **OOP and multi-module design**.  
+
 > Features optimized game loop, **inheritance, dynamic object spawning, collision logic, and modular architecture**.  
+
 > Built to showcase **scalable code structure and core development principles**.
 
 ## 🚀 Project Highlights
@@ -38,25 +38,25 @@ This project was built with a focus on **architecture over flashiness**, proving
 
 ## 🧩 Module Responsibilities
 
-    main.py
-	•	Initializes screen, snake, food, scoreboard
-	•	Handles keyboard input listeners
-	•	Runs game loop & collision detection
+main.py
+•	Initializes screen, snake, food, scoreboard
+•	Handles keyboard input listeners
+• Runs game loop & collision detection
 
-    snake.py
-	•	Builds snake body using loops
-	•	Moves snake using reverse iteration
-	•	Prevents invalid 180° turning
-	•	Implements extend() for growth
+snake.py
+•	Builds snake body using loops
+•	Moves snake using reverse iteration
+•	Prevents invalid 180° turning
+•	Implements extend() for growth
 
-    food.py
-	•	Inherits core traits from Turtle
-	•	Spawns in random screen positions with RNG
+food.py
+•	Inherits core traits from Turtle
+•	Spawns in random screen positions with RNG
 
-    scoreboard.py
-	•	Displays current score at top of screen
-	•	Updates score using a class method
-	•	Triggers Game Over display when called
+scoreboard.py
+•	Displays current score at top of screen
+•	Updates score using a class method
+•	Triggers Game Over display when called
 
 
 ## How to Run
