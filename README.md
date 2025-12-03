@@ -5,7 +5,7 @@
 
 # 🐍 **FR Python Snake Game**
 
-    ### A sleek, modular, object-oriented Python Snake game engineered to showcase strong development fundamentals, scalable architecture, and real-time game logic.
+### A sleek, modular, object-oriented Python Snake game engineered to showcase strong development fundamentals, scalable architecture, and real-time game logic.
 
 
     > Python Snake game built with **OOP and multi-module design**.  
@@ -14,27 +14,27 @@
 
 ## 🚀 Project Highlights
 
-    This project was built with a focus on **architecture over flashiness**, proving strong understanding of:
+This project was built with a focus on **architecture over flashiness**, proving strong understanding of:
 
-    - Multi-class systems with clear responsibility separation  
-    - **Inheritance** (`Food` and `Scoreboard` extend `Turtle`)  
-    - Stable and optimized **real-time game loop**  
-    - Collision detection (food, walls, self-body)  
-    - **Randomized dynamic object spawning** (food placement)  
-    - Modular Python file architecture  
+- Multi-class systems with clear responsibility separation  
+- **Inheritance** (`Food` and `Scoreboard` extend `Turtle`)  
+- Stable and optimized **real-time game loop**  
+- Collision detection (food, walls, self-body)  
+- **Randomized dynamic object spawning** (food placement)  
+- Modular Python file architecture  
 
 
 ## 🧠 Core Concepts Implemented
 
-    | Concept | Implementation |
-    |--------|---------------|
-    | OOP | `Snake` & `Scoreboard` using classes |
-    | Inheritance | `Food(Turtle)` subclass |
-    | Game Loop | Efficient `while play` loop with `screen.tracer(0)` |
-    | Modularity | Separate logic files for `snake`, `food`, and `scoreboard` |
-    | Collision Logic | `.distance()` checks for wall, food & tail |
-    | Error Prevention | Heading restriction to prevent 180° turns |
-    | Random Object Spawning | `randint()` coordinate generation |
+| Concept | Implementation |
+|--------|---------------|
+| OOP | `Snake` & `Scoreboard` using classes |
+| Inheritance | `Food(Turtle)` subclass |
+| Game Loop | Efficient `while play` loop with `screen.tracer(0)` |
+| Modularity | Separate logic files for `snake`, `food`, and `scoreboard` |
+| Collision Logic | `.distance()` checks for wall, food & tail |
+| Error Prevention | Heading restriction to prevent 180° turns |
+| Random Object Spawning | `randint()` coordinate generation |
 
 ## 🧩 Module Responsibilities
 
