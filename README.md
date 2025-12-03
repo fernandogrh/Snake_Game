@@ -8,9 +8,9 @@
 ### A sleek, modular, object-oriented Python Snake game engineered to showcase strong development fundamentals, scalable architecture, and real-time game logic.
 
 
-    > Python Snake game built with **OOP and multi-module design**.  
-    > Features optimized game loop, **inheritance, dynamic object spawning, collision logic, and modular architecture**.  
-    > Built to showcase **scalable code structure and core development principles**.
+> Python Snake game built with **OOP and multi-module design**.  
+> Features optimized game loop, **inheritance, dynamic object spawning, collision logic, and modular architecture**.  
+> Built to showcase **scalable code structure and core development principles**.
 
 ## 🚀 Project Highlights
 
