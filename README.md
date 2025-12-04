@@ -38,30 +38,30 @@ This project was built with a focus on **architecture over flashiness**, proving
 
 ## 🧩 Module Responsibilities
 
-main.py
-• Initializes screen, snake, food, scoreboard
-• Handles keyboard input listeners
-• Runs game loop & collision detection
+### main.py
+    • Initializes screen, snake, food, scoreboard
+    • Handles keyboard input listeners
+    • Runs game loop & collision detection
     
-snake.py
-• Builds snake body using loops
-• Moves snake using reverse iteration
-• Prevents invalid 180° turning
-• Implements extend() for growth
+### snake.py
+    • Builds snake body using loops
+    • Moves snake using reverse iteration
+    • Prevents invalid 180° turning
+    • Implements extend() for growth
     
-food.py
-• Inherits core traits from Turtle
-• Spawns in random screen positions with RNG
+### food.py
+    • Inherits core traits from Turtle
+    • Spawns in random screen positions with RNG
     
 scoreboard.py
-• Displays current score at top of screen
-• Updates score using a class method
-• Triggers Game Over display when called
+    • Displays current score at top of screen
+    • Updates score using a class method
+    • Triggers Game Over display when called
 
 
 ## How to Run
 
-bash
+```bash
 git clone <repo_url_here>.git
 cd <repo_folder>
 python main.py
