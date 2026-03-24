@@ -61,7 +61,10 @@ This project was built with a focus on **architecture over flashiness**, proving
 
 ## How to Run
 
-```bash
-git clone Snake_Game.git
-cd Snake_Game
-python main.py
+    git clone https://github.com/fernandogrh/Snake_Game.git
+    cd Snake_Game
+    python main.py
+
+## Author
+
+Built by **Fernando Ramirez**
