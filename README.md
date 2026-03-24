@@ -62,6 +62,6 @@ This project was built with a focus on **architecture over flashiness**, proving
 ## How to Run
 
 ```bash
-git clone <repo_url_here>.git
-cd <repo_folder>
+git clone Snake_Game.git
+cd Snake_Game
 python main.py
